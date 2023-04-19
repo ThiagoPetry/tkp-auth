@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1573399935",
+    "project_id": "tkp-auth",
+    "storage_bucket": "tkp-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1573399935:android:67fbca5b85d53a0091fe4a",
+        "android_client_info": {
+          "package_name": "com.tkpstudios.tkpauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1573399935-bo77vsk6c698jknsgc2s8o1rt9vtvpqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tkpstudios.tkpauth",
+            "certificate_hash": "7496c02d9d880c0ea5b655d9a903fc72d1a70db1"
+          }
+        },
+        {
+          "client_id": "1573399935-ti480qh8v63mggj3lpa3joabkv1ti008.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tkpstudios.tkpauth",
+            "certificate_hash": "dcabf59d0b27d8ac714b67b165b9dc0f2d4045ec"
+          }
+        },
+        {
+          "client_id": "1573399935-ku8mi5qo6prgrgbg5mu3q1rkuuc254j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbRZZ1SHeHsJYQla2DnTGAAC-0xo-sOC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1573399935-5gsoa67qbt996ttl5pvbk1gifu9cvqje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
